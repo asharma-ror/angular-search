@@ -8,10 +8,7 @@ Dropdown directive for AngularJS: Includes server side pagination & search recor
 2. jQuery
 3. Font Awesome
 
-### Result format. 
-It should have the properties “TotalRecords” and “Records”.
 
-![alt tag](http://i.imgur.com/SyA8mqs.png)
 
 ### Usage
 Include search and select in your module dependencies:
